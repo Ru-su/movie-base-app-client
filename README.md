@@ -30,7 +30,7 @@ Main:
 - [x] Add a _react-icons_-based "favorites" icon
 - [x] Create a movie detail page
 - [x] Provide responsive design
-- [x] Create _MANTINE UI_-based UI
+- [ ] Create _MANTINE UI_-based UI
 
 Bonus:
 
